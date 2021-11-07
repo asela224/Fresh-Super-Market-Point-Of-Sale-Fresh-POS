@@ -75,12 +75,12 @@ So, at first this Point-of-sale solution is developed for a small range Supermar
 
 ## E-R Diagram
 <p align="center">
-<img src="https://github.com/asela224/Fresh-Super-Market-Point-Of-Sale-Fresh-POS/blob/main/ER%20Diagram%20final.png" />
+<img src="https://github.com/asela224/Fresh-Super-Market-Point-Of-Sale-Fresh-POS/blob/main/Diagrams/Diagrams/ER%20Diagram%20final.png" />
 </p>
 
 ## Physical Diagram
 <p align="center">
-<img src="https://github.com/asela224/Fresh-Super-Market-Point-Of-Sale-Fresh-POS/blob/main/Database%20Diagram%20Php%20my%20admin%20View.png" />
+<img src="https://github.com/asela224/Fresh-Super-Market-Point-Of-Sale-Fresh-POS/blob/main/Diagrams/Diagrams/Database%20Diagram%20Php%20my%20admin%20View.png" />
 </p>
 
 
