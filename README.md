@@ -32,7 +32,9 @@ So, at first this Point-of-sale solution is developed for a small range Supermar
 - JDK 1.8 or Higher
 - JavaFX SDK 17 or Higher
 
-
+## Used Tools to Development
+ - Eclipse 2019-03
+ - Scence Builder 2.0
 
 ## System Analyse and Design 
 
@@ -117,5 +119,5 @@ So, at first this Point-of-sale solution is developed for a small range Supermar
 
 
 
-
+## Please see the Project Documentation and Presantation For Additional Information
 
