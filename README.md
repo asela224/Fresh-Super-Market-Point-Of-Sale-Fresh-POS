@@ -124,6 +124,11 @@ Admin Password : admin</br>
 </p>
 
 
+## Genarated Bill
+<p align="center">
+<img src="https://github.com/asela224/FreshPOS/blob/main/UI/bill.png" />
+</p>
+
 
 
 ## Please see the Project Documentation and Presantation For Additional Information
