@@ -95,6 +95,12 @@ So, at first this Point-of-sale solution is developed for a small range Supermar
 <img src="https://github.com/asela224/Fresh-Super-Market-Point-Of-Sale-Fresh-POS/blob/main/UI/1.%20login.png" />
 </p>
 
+# Admin User name: admin 
+# Admin Password : admin
+
+# Cashier ID : 11001
+# Password   : 1
+
 
 ## Cashier Panel
 <p align="center">
